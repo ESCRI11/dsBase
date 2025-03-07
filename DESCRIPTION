@@ -165,6 +165,7 @@ AssignMethods:
     uniqueDS,
     unListDS,
     vectorDS,
+    completeDS,
     as.character=base::as.character,
     as.null=base::as.null,
     as.numeric=base::as.numeric,
